@@ -1,0 +1,22 @@
+{
+    "name": "zomberg/php-query",
+    "description": "phpQuery",
+    "keywords": ["phpQuery", "lib"],
+    "type": "library",
+    "homepage": "https://github.com/zomberg/phpQuery",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Vyacheslav Pavlov",
+            "homepage": "https://github.com/zomberg",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["phpQuery/"]
+    }
+}
+
