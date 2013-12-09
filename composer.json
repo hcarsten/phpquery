@@ -7,6 +7,12 @@
     "license": "Mit",
     "authors": [
         {
+            "name": "Tobiasz Cudnik",
+            "email": "tobiasz.cudnik@gmail.com",
+            "homepage": "https://github.com/TobiaszCudnik",
+            "role": "Developer"
+        },
+        {
             "name": "Vyacheslav Pavlov",
             "homepage": "https://github.com/zomberg",
             "role": "Developer"
