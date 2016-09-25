@@ -1,5 +1,5 @@
 {
-    "name": "zomberg/phpquery",
+    "name": "hcarsten/phpquery",
     "description": "phpQuery is a server-side, chainable, CSS3 selector driven Document Object Model (DOM) API based on jQuery JavaScript Library",
     "keywords": ["phpQuery", "lib"],
     "type": "library",
@@ -15,6 +15,11 @@
         {
             "name": "Vyacheslav Pavlov",
             "homepage": "https://github.com/zomberg",
+            "role": "Packager"
+        },
+        {
+            "name": "Carsten Harnisch",
+            "homepage": "https://github.com/hcarsten",
             "role": "Packager"
         }
     ],
